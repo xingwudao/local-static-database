@@ -1,7 +1,7 @@
 /*************************************************************************
 	> File Name: virtual_memory_data.hpp
 	> Author: kaijiang
-	> Mail: xingwudao@qq.com
+	> Mail: kaijiangchen@gmail.com
 	> Created Time: Mon 18 Nov 2013 09:56:28 AM CST
  ************************************************************************/
 #ifndef VIRTUAL_MEMORY_DATA_H
